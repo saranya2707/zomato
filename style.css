@@ -264,7 +264,7 @@ a{
 
 /*             Media Query                   */
 
-@media(max-width:360px){
+@media(max-width:340px){
     .banner{
         background-image: url("image/b.jpg");
         width: 100%;
