@@ -370,7 +370,7 @@ a{
     background-color: red;
     height: 300px;
     border-radius: 10px;
-    margin-left: 5px;
+    margin-left: 22px;
 }
 
 .c2{
@@ -378,7 +378,7 @@ a{
     height: 300px;
     border-radius: 10px;
     margin-top: 350px;
-    margin-left: -295px;
+    margin-left: -300px;
 }
 
 .c3{
@@ -386,7 +386,7 @@ a{
     height: 300px;
     border-radius: 10px;
     margin-top: 700px;
-    margin-left: -295px;
+    margin-left: -300px;
 }
 
 .c4{
@@ -394,7 +394,7 @@ a{
     height: 300px;
     border-radius: 10px;
     margin-top: 1050px;
-    margin-left: -295px;
+    margin-left: -300px;
 }
 
 .cc1{
@@ -416,7 +416,7 @@ a{
     display: flex;
     font-size: 13px;
     justify-content: space-between;
-    margin-left: 1px;
+    margin-left: 23px;
     margin-right: 350px;
     text-align: center;
 }
@@ -441,7 +441,7 @@ a{
 
 .z{
     background-color: red;
-    height: 360px;
+    height: 280px;
     font-size: 75px;
     color: white;
     font-style: italic;
@@ -458,6 +458,7 @@ a{
 .d{
 font-size: 20px;
 font-style: oblique;
+margin-left: 30px;
 }
 
 .d1{
