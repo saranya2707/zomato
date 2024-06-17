@@ -172,41 +172,28 @@
 }
 
 .d{
-text-align: center;
 font-size: 20px;
 font-style: oblique;
 }
 
 .d1{
-    border: 2px solid red;
-    padding: 10px;
-    margin-left: 300px;
-    margin-right: 300px;
-    background-color: aqua;
+    margin-left:20px;
+    width:345px;
 }
 
 .d2{
-    border: 2px solid red;
-    padding: 10px;
-    margin-left: 300px;
-    margin-right: 300px;
-    background-color: aquamarine;
+   margin-left:20px;
+    width:345px;
 }
 
 .d3{
-    border: 2px solid red;
-    padding: 10px;
-    margin-left: 300px;
-    margin-right: 300px;
-    background-color: aqua;
+   margin-left:20px;
+    width:345px;
 }
 
 .d4{
-    border: 2px solid red;
-    padding: 10px;
-    margin-left: 300px;
-    margin-right: 300px;
-    background-color: aquamarine;
+   margin-left:20px;
+    width:345px;
 }
 
 .fo{
