@@ -177,23 +177,35 @@ font-style: oblique;
 }
 
 .d1{
-    margin-left:30px;
-    width:345px;
+    border: 2px solid red;
+    padding: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: aquamarine;
 }
 
 .d2{
-   margin-left:30px;
-    width:345px;
+   border: 2px solid red;
+    padding: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: aquamarine;
 }
 
 .d3{
-   margin-left:30px;
-    width:345px;
+  border: 2px solid red;
+    padding: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: aquamarine;
 }
 
 .d4{
-   margin-left:30px;
-    width:345px;
+   border: 2px solid red;
+    padding: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: aquamarine;
 }
 
 .fo{
@@ -448,23 +460,23 @@ font-style: oblique;
 }
 
 .d1{
-    margin-left:10px;
+    margin-left:25px;
     width:345px;
 }
 
 
 .d2{
-    margin-left:10px;
+    margin-left:25px;
     width:345px;
 }
 
 .d3{
-    margin-left:10px;
+    margin-left:25px;
     width:345px;
 }
 
 .d4{
-    margin-left:10px;
+    margin-left:25px;
     width:345px;
 }
 
